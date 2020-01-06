@@ -11,4 +11,7 @@ public class ApopHisLibTest {
     public static void toTestInit(){
         Log.i("A_POP_HIS_LIST_TEST_LOG","toTestInit");
     }
+    public static void toGO(){
+        Log.i(LOG,"go");
+    }
 }
